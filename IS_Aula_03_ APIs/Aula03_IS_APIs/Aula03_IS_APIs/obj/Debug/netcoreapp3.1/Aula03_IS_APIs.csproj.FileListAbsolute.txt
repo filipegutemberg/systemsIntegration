@@ -1,0 +1,13 @@
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs\bin\Debug\netcoreapp3.1\Aula03_IS_APIs.exe
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs\bin\Debug\netcoreapp3.1\Aula03_IS_APIs.deps.json
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs\bin\Debug\netcoreapp3.1\Aula03_IS_APIs.runtimeconfig.json
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs\bin\Debug\netcoreapp3.1\Aula03_IS_APIs.runtimeconfig.dev.json
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs\bin\Debug\netcoreapp3.1\Aula03_IS_APIs.dll
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs\bin\Debug\netcoreapp3.1\Aula03_IS_APIs.pdb
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs\obj\Debug\netcoreapp3.1\Aula03_IS_APIs.csprojAssemblyReference.cache
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs\obj\Debug\netcoreapp3.1\Aula03_IS_APIs.AssemblyInfoInputs.cache
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs\obj\Debug\netcoreapp3.1\Aula03_IS_APIs.AssemblyInfo.cs
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs\obj\Debug\netcoreapp3.1\Aula03_IS_APIs.csproj.CoreCompileInputs.cache
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs\obj\Debug\netcoreapp3.1\Aula03_IS_APIs.dll
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs\obj\Debug\netcoreapp3.1\Aula03_IS_APIs.pdb
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs\obj\Debug\netcoreapp3.1\Aula03_IS_APIs.genruntimeconfig.cache

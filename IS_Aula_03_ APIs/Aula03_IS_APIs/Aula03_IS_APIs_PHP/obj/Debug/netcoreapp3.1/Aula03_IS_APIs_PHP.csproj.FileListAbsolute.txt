@@ -1,0 +1,13 @@
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs_PHP\bin\Debug\netcoreapp3.1\Aula03_IS_APIs_PHP.exe
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs_PHP\bin\Debug\netcoreapp3.1\Aula03_IS_APIs_PHP.deps.json
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs_PHP\bin\Debug\netcoreapp3.1\Aula03_IS_APIs_PHP.runtimeconfig.json
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs_PHP\bin\Debug\netcoreapp3.1\Aula03_IS_APIs_PHP.runtimeconfig.dev.json
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs_PHP\bin\Debug\netcoreapp3.1\Aula03_IS_APIs_PHP.dll
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs_PHP\bin\Debug\netcoreapp3.1\Aula03_IS_APIs_PHP.pdb
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs_PHP\obj\Debug\netcoreapp3.1\Aula03_IS_APIs_PHP.csprojAssemblyReference.cache
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs_PHP\obj\Debug\netcoreapp3.1\Aula03_IS_APIs_PHP.AssemblyInfoInputs.cache
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs_PHP\obj\Debug\netcoreapp3.1\Aula03_IS_APIs_PHP.AssemblyInfo.cs
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs_PHP\obj\Debug\netcoreapp3.1\Aula03_IS_APIs_PHP.csproj.CoreCompileInputs.cache
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs_PHP\obj\Debug\netcoreapp3.1\Aula03_IS_APIs_PHP.dll
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs_PHP\obj\Debug\netcoreapp3.1\Aula03_IS_APIs_PHP.pdb
+C:\Users\filipegutemberg\Documents\IS_Aula_03_ APIs\Aula03_IS_APIs\Aula03_IS_APIs_PHP\obj\Debug\netcoreapp3.1\Aula03_IS_APIs_PHP.genruntimeconfig.cache

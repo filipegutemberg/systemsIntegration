@@ -1,0 +1,34 @@
+ROBOT FUNCIONA COM A VERSAO MAIS NOVA DO JAVA E DO NETBEANS
+
+PROGRAMAS DA UTAD (WINDOWS, MYSQL...)
+
+https://portal.azure.com/?Microsoft_Azure_Education_correlationId=d0757225-e8ef-48c9-bddf-fb79a2fd81d6#blade/Microsoft_Azure_Education/EducationMenuBlade/software
+
+JDK >= 8 (se o sikulix funciona, não é necessário instalar novamente)
+
+Recomendado instalar o IDE Apache Netbeans 12(https://netbeans.apache.org/download/nb113/nb113.html ->windows-x64.exe)
+Java Quick Start Tutorial (https://netbeans.apache.org/kb/docs/java/quickstart.html)
+Se ao compilar uma aplicação em Java ocorrer o problema 
+“can´t run cmd” ver este link (https://stackoverflow.com/a/58484737/5449842)
+
+Robot class
+http://www.java-tips.org/java-se-tips/java.awt/simulating-mouse-and-keypresses.
+html
+http://docs.oracle.com/javase/6/docs/api/java/awt/Robot.html
+http://www.vaniomeurer.com.br/2009/02/19/como-usar-a-classe-robot/
+
+TUTORIAL ROBOT
+https://www.devmedia.com.br/utilizando-a-classe-robot-em-java/2363
+
+    //Funções criadas para escrever letra a letra, pelos código dos botões do teclado dada uma string 
+    //https://stackoverflow.com/a/1248709/5449842
+    //Autor: Adam Paynter e Márcio Souza Júnior (Utilizadores no stackoverflow)
+    public static void type(CharSequence characters) {
+        int length = characters.length();
+        for (int i = 0; i < length; i++) {
+            char character = characters.charAt(i);
+            type(character);
+        }
+    }
+
+

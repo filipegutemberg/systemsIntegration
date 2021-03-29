@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula03_IS_API_get_post", "Aula03_IS_APIs\Aula03_IS_API_get_post.csproj", "{FFF3AA70-2AA9-4A9C-9059-71010805FC4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula03_IS_APIs_PHP", "Aula03_IS_APIs_PHP\Aula03_IS_APIs_PHP.csproj", "{B7B5C27A-D39B-4881-B981-C3A19E1BF800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFF3AA70-2AA9-4A9C-9059-71010805FC4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF3AA70-2AA9-4A9C-9059-71010805FC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF3AA70-2AA9-4A9C-9059-71010805FC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF3AA70-2AA9-4A9C-9059-71010805FC4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B5C27A-D39B-4881-B981-C3A19E1BF800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B5C27A-D39B-4881-B981-C3A19E1BF800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B5C27A-D39B-4881-B981-C3A19E1BF800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B5C27A-D39B-4881-B981-C3A19E1BF800}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A286698C-9D77-4A88-BB6D-CB3742FCE71C}
+	EndGlobalSection
+EndGlobal
